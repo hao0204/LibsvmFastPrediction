@@ -12,3 +12,6 @@ How to use:
 3. Editing the svm.java
 4. Run main.java to get the result.
 
+Cite:
+Claesen, Marc, et al. "Fast prediction with SVM models containing RBF kernels." arXiv preprint arXiv:1403.0736 (2014).
+
