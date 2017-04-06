@@ -1,0 +1,3 @@
+*.model linguist-language=Java
+*.model.deal linguist-language=Java
+*.txt linguist-language=Java
